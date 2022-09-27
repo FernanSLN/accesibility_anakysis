@@ -1,0 +1,4 @@
+numpy==1.23.3
+pandas==1.4.4
+pymongo==4.2.0
+tweepy==4.10.1
